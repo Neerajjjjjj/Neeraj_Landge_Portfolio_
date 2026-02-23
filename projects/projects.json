@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Airline Ticket Booking System",
+    "desc": "Full-stack Airline Ticket Booking System built with React and Spring Boot, featuring flight search, ticket booking, and secure REST API integration",
+    "image": "Capture9",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/Neerajjjjjj/airline-ticket-booking-system",
+      "code": "https://github.com/Neerajjjjjj/airline-ticket-booking-system"
+    }
+  },
+      {
+    "name": "Wellness Bliss",
+    "desc": "Single-page React application with Routing",
+    "image": "react_routing",
+    "category": "lamp",
+    "links": {
+      "view": "https://wellnessbliss.netlify.app/",
+      "code": "https://github.com/Neerajjjjjj/React_Routing"
+    }
+  },
+    {
+    "name": "React Dashboard",
+    "desc": "A responsive React dashboard built with Material UI components",
+    "image": "reactdashboard",
+    "category": "lamp",
+    "links": {
+      "view": "https://reactdash-board.netlify.app/",
+      "code": "https://github.com/Neerajjjjjj/my-dashboard"
+    }
+  },
+  {
+    "name": "Car Service Template",
+    "desc": "HTML, CSS, Bootstrap based car service website template.",
+    "image": "car_service",
+    "category": "mern",
+    "links": {
+      "view": "https://carservice-project.netlify.app/",
+      "code": "https://github.com/Neerajjjjjj/Car-Service"
+    }
+  },
+  {
+    "name": "Education Website Template",
+    "desc": "HTML, CSS, based education website template.",
+    "image": "course",
+    "category": "mern",
+    "links": {
+      "view": "https://educationwebsitetemplate.netlify.app/",
+      "code": "https://github.com/Neerajjjjjj/Education"
+    }
+  },
+  {
+    "name": "Fashion Website Template",
+    "desc": "HTML, CSS, Bootstrap & javascript based fashion website template.",
+    "image": "fashion",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/Neerajjjjjj/Fashion-Webpage"
+    }
+  },
+  {
+    "name": "Food Catering Service Template",
+    "desc": "HTML, CSS, Bootstrap based food catering service website template.",
+    "image": "food_catering_service",
+    "category": "lamp",
+    "links": {
+      "view": "https://foodcateringservices.netlify.app/",
+      "code": "https://github.com/Neerajjjjjj/Food-Webpage"
+    }
+  },
+    {
+    "name": "Real Estate Template",
+    "desc": "HTML, CSS, Bootstrap based real estate website template.",
+    "image": "realestate_v2",
+    "category": "mern",
+    "links": {
+      "view": "https://realestatetemplatee.netlify.app/",
+      "code": "https://github.com/Neerajjjjjj/Realestate-webpage"
+
+    }
+  }
+]
